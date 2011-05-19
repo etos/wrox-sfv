@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WRoX-SFV">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\daniel\Desktop\WRoX-SFV\WRoX-SFV.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\daniel\Desktop\WRoX-SFV\WRoX-SFV.suo">
+</Property><Property Name="Date" Value="14 July 2006">
+</Property><Property Name="Time" Value="10:27">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WRoX-SFV.sln" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\WRoX-SFV.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WRoX-SFV.suo" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\WRoX-SFV.suo">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="WRoX-SFV.csproj" Description="Project file successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\WRoX-SFV.csproj">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="WRoX-SFV.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\WRoX-SFV.csproj.user">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="AboutDlg.cs" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\AboutDlg.cs">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="AddFilesDlg.cs" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\AddFilesDlg.cs">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="crc32.cs" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\crc32.cs">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="ErrorHandler.cs" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\ErrorHandler.cs">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="FileServices.cs" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\FileServices.cs">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="MainUI.cs" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\MainUI.cs">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="Shell32.cs" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\Shell32.cs">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="TextInputDialog.cs" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\TextInputDialog.cs">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="Unrar.cs" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\Unrar.cs">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="UnrarDlg.cs" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\UnrarDlg.cs">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="Utilities.cs" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\Utilities.cs">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="app.config" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\app.config">
+</Event><Event ErrorLevel="2" Project="WRoX-SFV" Source="App.ico" Description="Failed to backup file as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="AboutDlg.resx" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\AboutDlg.resx">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="AddFilesDlg.resx" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\AddFilesDlg.resx">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="MainUI.resx" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\MainUI.resx">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="TextInputDialog.resx" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\TextInputDialog.resx">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="UnrarDlg.resx" Description="File successfully backed up as C:\Documents and Settings\daniel\Desktop\WRoX-SFV\Backup\UnrarDlg.resx">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="WRoX-SFV.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WRoX-SFV" Source="WRoX-SFV.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WRoX-SFV.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WRoX-SFV.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WRoX-SFV" Source="WRoX-SFV.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

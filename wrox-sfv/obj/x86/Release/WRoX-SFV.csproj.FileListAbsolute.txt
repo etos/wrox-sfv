@@ -1,0 +1,12 @@
+C:\Users\dan\Desktop\ver1.7\bin\x86\Release\WRoX-SFV.exe.config
+C:\Users\dan\Desktop\ver1.7\obj\x86\Release\WRoX-SFV.exe
+C:\Users\dan\Desktop\ver1.7\bin\x86\Release\WRoX-SFV.exe
+C:\Users\dan\Desktop\ver1.7\bin\x86\Release\SmoothProgressBar.pdb
+C:\Users\dan\Desktop\ver1.7\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\dan\Desktop\ver1.7\obj\x86\Release\MTK.WRoX_SFV.AboutDlg.resources
+C:\Users\dan\Desktop\ver1.7\obj\x86\Release\MTK.WRoX_SFV.AddFilesDlg.resources
+C:\Users\dan\Desktop\ver1.7\obj\x86\Release\MTK.WRoX_SFV.WRoXMain.resources
+C:\Users\dan\Desktop\ver1.7\obj\x86\Release\MTK.WRoX_SFV.Properties.Resources.resources
+C:\Users\dan\Desktop\ver1.7\obj\x86\Release\MTK.WRoX_SFV.Schematrix.TextInputDialog.resources
+C:\Users\dan\Desktop\ver1.7\obj\x86\Release\MTK.WRoX_SFV.UnrarDlg.resources
+C:\Users\dan\Desktop\ver1.7\obj\x86\Release\WRoX-SFV.csproj.GenerateResource.Cache
